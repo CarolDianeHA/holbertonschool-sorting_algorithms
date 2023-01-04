@@ -17,7 +17,7 @@ An algorithm is a finite sequence of rigorous instructions, typically used to so
 
 ## Data Structure and Functions used
 
-* For this project you are given the following `print_array`, and `print_list` functions:
+* For this project you are given the following `print_array`, and `print_list` functions located in the file `print_funcs.c`:
 
 ```c
 #include <stdlib.h>
