@@ -92,7 +92,7 @@ typedef struct listint_s
 ## Compile
 
 ```
-gcc -Wall -Wextra -Werror -pedantic 0-bubble_sort.c 0-main.c print_array.c -o "file name"
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89
 ```
 
 ## Tests
